@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TlrqeRbzgYy33GmWKe/fmSXwN0QCdqrWS36AIxfNTslG7l1N6vyzqvJegUVjJFeBvEeOjfdnSMr5HEjXi6RKcw==",
+  "dgSpecHash": "3JWN+CFkGl5m4TjrCa1u+iFnAhWBm+bfOO8GU3axeDAargndqx2HQ4ZDPNi9PYOGW6Rq28sOJPaCTY7+CSyGeg==",
   "success": true,
-  "projectFilePath": "D:\\Files\\univeersity\\PTW\\TeamProjects\\QureProject\\QureProject\\QureProject\\QureProject.csproj",
+  "projectFilePath": "C:\\TEMPORARY\\s\\QureProject\\qure_proj_webapp\\QureProject\\QureProject\\QureProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serpe\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\serpe\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
